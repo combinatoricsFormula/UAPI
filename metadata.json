@@ -1,0 +1,7 @@
+{
+  "name": "OmniSource Data Hub",
+  "description": "Connect any endpoint or data source, automatically detect schemas and data types, authenticate securely, and visualize in a unified analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
